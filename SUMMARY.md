@@ -1,1 +1,1 @@
-* [空白目录](default.md)
+* [[knowledge] 知识点]([knowledge] 知识点.md)
