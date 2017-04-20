@@ -5,5 +5,6 @@ Web性能压力测试工具之WebBench
 构建工具Jenkins
 下载视频的 chrome扩展video Downloader pro
 WEB前端助手(FeHelper)
+Git统计分析工具(gitinspector)
 
 
